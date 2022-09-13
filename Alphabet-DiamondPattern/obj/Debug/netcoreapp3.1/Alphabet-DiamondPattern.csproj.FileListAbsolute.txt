@@ -1,0 +1,14 @@
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.exe
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.deps.json
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.runtimeconfig.json
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.runtimeconfig.dev.json
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.dll
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\bin\Debug\netcoreapp3.1\Alphabet-DiamondPattern.pdb
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.csproj.AssemblyReference.cache
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.AssemblyInfoInputs.cache
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.AssemblyInfo.cs
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.dll
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.pdb
+C:\Users\003RXN744\MyPOCRepos\Alphabet-DiamondPattern\Alphabet-DiamondPattern\obj\Debug\netcoreapp3.1\Alphabet-DiamondPattern.genruntimeconfig.cache

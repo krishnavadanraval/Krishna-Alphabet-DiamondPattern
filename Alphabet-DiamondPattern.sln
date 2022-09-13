@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphabet-DiamondPattern", "Alphabet-DiamondPattern\Alphabet-DiamondPattern.csproj", "{75A24366-0CC8-4FDB-8704-B84FDC36D743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{10F35861-42CF-480D-933F-A7F8DE4F34B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A24366-0CC8-4FDB-8704-B84FDC36D743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A24366-0CC8-4FDB-8704-B84FDC36D743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A24366-0CC8-4FDB-8704-B84FDC36D743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A24366-0CC8-4FDB-8704-B84FDC36D743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F35861-42CF-480D-933F-A7F8DE4F34B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F35861-42CF-480D-933F-A7F8DE4F34B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F35861-42CF-480D-933F-A7F8DE4F34B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F35861-42CF-480D-933F-A7F8DE4F34B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B121C0AC-6BD2-4AA6-AC2A-09B83252E4A4}
+	EndGlobalSection
+EndGlobal

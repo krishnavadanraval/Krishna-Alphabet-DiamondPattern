@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovJQ9oM6JHKiLLaQTOKLpfraoBUJe/RKtbeQ5uUnuHyDjtSLcPEMjNQLL/mz96xZ7HCbrs0dzq3LgaZuFvZvig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\003RXN744\\MyPOCRepos\\GitHub\\Krishna-Alphabet-DiamondPattern\\Alphabet-DiamondPattern\\Alphabet-DiamondPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\003RXN744\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
